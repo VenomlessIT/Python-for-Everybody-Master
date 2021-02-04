@@ -108,3 +108,12 @@ You will create an object detection application.
 
 By using classes, functions, loops and 3rd party packages in a virtual environment you'll be able to take a photograph and find cars, people, bikes, cats and many many more common objects. We'll do this all in Python as your capstone project.
 # Python-for-Everybody-Master
+
+# Python-for-Everybody-Master HOW TO USE IT!
+1. We have to install Jupyter-notebook
+- pip install notebook - (Easiest way so we do not have to install all options that are available on Jupyter for example Jupyterlab etc...
+2. Check if it's installed successfully
+- jupyter notebook
+3. We have to navigate to the correct folder!
+4. Run Python with file name you wanna open(we open files with .ipynb on the end of the file, or as file extension)
+-py "File_Name".ipynb - (For example py 150_User_Input.ipynb)(If you do not have "py" shortcut, just use full name python and filename with extension)
