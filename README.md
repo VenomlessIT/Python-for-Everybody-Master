@@ -2,7 +2,7 @@
 
 ### Welcome to Python for Everybody
 
-> Python for Everybody is a course by [@KalobTaulien](https://twitter.com/KalobTaulien) that teaches Python to beginner programmers, and helps intermediate and advanced developers level up their existing Python skills. This course uses Python 3.7 and newer. There is no support for Python 2 in this course.
+> Python for Everybody is a course by [@KalobTaulien] that teaches Python to beginner programmers, and helps intermediate and advanced developers level up their existing Python skills. This course uses Python 3.7 and newer. There is no support for Python 2 in this course.
 
 ### Where to get it:
 Python for Everybody is available on:
